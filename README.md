@@ -14,4 +14,10 @@
 
 🏃‍♂️ When I'm not coding, you can find me hitting the pavement for a run or lifting weights at the gym. I believe in the importance of maintaining a healthy and active lifestyle.
 
-🌍 I am fluent in both English and Turkish and am always open to collaborating with clients from around the world. If you have a project that you think I could help with, don't hesitate to reach out to me via LinkedIn or by email at onurcagann@gmail.com. I look forward to working with you.
+🌍 I am fluent in both English and Turkish and am always open to collaborating with clients from around the world. If you have a project that you think I could help with, don't hesitate to reach out to me via LinkedIn or by email. I look forward to working with you.
+
+[<img  width="25" src="social-media-logo/linkedin.png" align="left" />][linkedin]
+[<img  width="25" src="social-media-logo/logo-gmail.png" align="left" />][gmail]
+
+[linkedin]: https://www.linkedin.com/in/onurcagan/
+[gmail]: mailto:onurcagann@gmail.com
