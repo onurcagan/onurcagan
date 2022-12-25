@@ -5,7 +5,6 @@
 - Typescript
 - React
 - C#
-- WPF
 - Next.js
 - Node.js
 
