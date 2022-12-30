@@ -4,9 +4,9 @@
 
 - Typescript
 - React
-- C#
 - Next.js
 - Node.js
+- C# & WPF
 
 🎨 I also have experience working with UI libraries such as Chakra UI and Bootstrap to create visually appealing and user-friendly interfaces.
 
