@@ -2,13 +2,13 @@
 
 💻 I specialize in building websites and web applications using a variety of languages and frameworks, including:
 
-- Typescript
 - React
+- Typescript
 - Next.js
 - Node.js
 - C# & WPF
 
-🎨 I also have experience working with UI libraries such as Chakra UI and Bootstrap to create visually appealing and user-friendly interfaces.
+🎨 I also have experience working with UI libraries such as TailwindCSS, Chakra UI and Bootstrap to create visually appealing and user-friendly interfaces.
 
 💪 When it comes to my work, I am a problem-solver at heart and always aim to deliver the best possible results for my clients. I am also committed to staying up-to-date with the latest technologies and techniques in web development.
 
