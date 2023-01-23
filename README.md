@@ -1,4 +1,4 @@
-🙋‍♂️ Hi there! My name is Onur and I'm a software developer.
+🙋‍♂️ Hi there! My name is Onur and I'm a Software Engineer.
 
 💻 I specialize in building websites and web applications using a variety of languages and frameworks, including:
 
