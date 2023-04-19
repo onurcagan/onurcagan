@@ -1,4 +1,4 @@
-🙋‍♂️ Hi there! My name is Onur and I'm a Software Engineer.
+🙋‍♂️ Hi there! My name is Onur and I'm a Software Engineer at TicketNetwork.
 
 💻 I specialize in building websites and web applications using a variety of languages and frameworks, including:
 
@@ -27,3 +27,4 @@
 
 [linkedin]: https://www.linkedin.com/in/onurcagan/
 [gmail]: mailto:onurcagann@gmail.com
+![](https://komarev.com/ghpvc/?username=onurcagan&color=blueviolet)
