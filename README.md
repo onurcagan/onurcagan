@@ -26,6 +26,7 @@
 <img width="25" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" align="left"/>
 
 [linkedin]: https://www.linkedin.com/in/onurcagan/
-[gmail]: mailto:onurcagann@gmail.com 
+[gmail]: mailto:onurcagann@gmail.com  
+<br />
 
 ![](https://komarev.com/ghpvc/?username=onurcagan&color=blueviolet)
