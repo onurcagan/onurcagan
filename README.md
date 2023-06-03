@@ -6,7 +6,7 @@
 - Typescript
 - Next.js
 - Node.js
-- C# & WPF
+- Jest
 
 🎨 I also have experience working with UI libraries such as TailwindCSS, Chakra UI and Bootstrap to create visually appealing and user-friendly interfaces.
 
