@@ -2,11 +2,11 @@
 
 💻 My primary focus is on developing websites and web applications using an array of languages and frameworks, including but not limited to:
 
-React
-Typescript
-Next.js
-Node.js
-Jest
+- React
+- Typescript
+- Next.js
+- Node.js
+- Jest
 
 🎨 Additionally, I possess experience working with UI libraries such as TailwindCSS, Chakra UI, and Bootstrap to craft visually appealing and user-friendly interfaces.
 
