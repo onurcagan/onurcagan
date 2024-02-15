@@ -1,15 +1,5 @@
 🙋‍♂️ Hello there! I'm Onur, a Software Engineer at TicketNetwork.
 
-💻 My primary focus is on developing websites and web applications using an array of languages and frameworks, including but not limited to:
-
-- React
-- Typescript
-- Next.js
-- Node.js
-- Jest
-
-🎨 Additionally, I possess experience working with UI libraries such as TailwindCSS, Chakra UI, and Bootstrap to craft visually appealing and user-friendly interfaces.
-
 💪 In my work, I thrive as a natural problem-solver, always striving to deliver the utmost quality and satisfaction to my clients. I am deeply committed to staying up-to-date with the latest web development technologies and techniques.
 
 🏃‍♂️ When I'm not immersed in coding, you'll often find me hitting the pavement for a run or lifting weights at the gym. Maintaining a healthy and active lifestyle is a core value I hold.
