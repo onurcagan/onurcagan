@@ -1,10 +1,26 @@
-🙋‍♂️ Hello there! I'm Onur, a Software Engineer at TicketNetwork.
+Onur here, a Software Engineer with a passion for building efficient and scalable solutions. I thrive in fast-paced environments and enjoy tackling complex challenges across the entire development stack.
 
-💪 In my work, I thrive as a natural problem-solver, always striving to deliver the utmost quality and satisfaction to my clients. I am deeply committed to staying up-to-date with the latest web development technologies and techniques.
+My expertise lies in:
 
-🏃‍♂️ When I'm not immersed in coding, you'll often find me hitting the pavement for a run or lifting weights at the gym. Maintaining a healthy and active lifestyle is a core value I hold.
+**Back-End Development**: Experienced in building robust and scalable APIs using serverless technologies like AWS Lambda, Cloudflare KV, Queue, Workers, and frameworks like Express, Hono and Nestjs.
 
-🌍 Fluent in English, I enthusiastically welcome collaboration opportunities with clients from all around the world. If you have a project in mind where my skills can be of assistance, feel free to reach out to me via LinkedIn or e-mail. I look forward to working together!
+**Front-End Development**: Adept in leveraging Next.js, web workers, and performance optimization techniques to craft user-centric experiences.
+
+**Data Management**: Skilled in working with both SQL (PostgreSQL) and NoSQL (MongoDB) databases to ensure data integrity and efficient retrieval.
+
+**DevOps Practices**: Strong advocate for implementing CI/CD pipelines and utilizing tools like Jest and Cypress for comprehensive testing.
+
+**Machine Learning**: Intrigued by the potential of ML and eager to explore its application in software development.
+
+Beyond technical proficiency, I value:
+
+**Collaboration**: Working effectively with cross-functional teams to achieve common goals.
+
+**Mentorship**: Sharing knowledge and fostering a collaborative environment for junior developers.
+
+**Continuous Learning**: Staying up-to-date with the latest technologies and trends in the software development landscape.
+
+Please don't hesitate to reach out if you have any inquiries.
 
 ![](https://komarev.com/ghpvc/?username=onurcagan&color=blueviolet)
 [<img  width="23" src="social-media-logo/linkedin.png" align="left" />][linkedin]
